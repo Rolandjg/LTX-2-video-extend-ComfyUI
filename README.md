@@ -9,3 +9,9 @@
 - RES4LYF
 - ComfyUI-LTXVideo
 - ComfyUI-KJNodes
+
+## Examples
+# Deepfake (720p)
+https://github.com/user-attachments/assets/4a2a2742-4e0e-4796-a41e-e92e93ec6551
+# Video Extension (720p)
+https://github.com/user-attachments/assets/1dc8745a-2cb5-4431-983c-80ebd2881ab8
