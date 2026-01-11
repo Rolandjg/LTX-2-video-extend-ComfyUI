@@ -1,0 +1,2 @@
+- Supports distilled model but works best with full steps.
+- Open the `Samplers` subgraph to change CFG and sigma steps.
